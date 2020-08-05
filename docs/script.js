@@ -1,1 +1,3 @@
-var a
+let a;
+a = "welcome"
+alert(a)
