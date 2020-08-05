@@ -1,3 +1,3 @@
 let a;
 a = "welcome"
-alert(a)
+alert(a);
