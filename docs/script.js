@@ -1,1 +1,1 @@
-alert
+var a
